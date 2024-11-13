@@ -16,8 +16,8 @@ class Program
         List<Classes> classes = new List<Classes>()
         {
             new Classes(1,"Matematik"),
-            new Classes(1,"Türkçe"),
-            new Classes(1,"Kimya")
+            new Classes(2,"Türkçe"),
+            new Classes(3,"Kimya")
 
         };
 
